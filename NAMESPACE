@@ -1,0 +1,4 @@
+export(HazardDiff)
+importFrom(Rdpack,reprompt)
+importFrom("stats", "coef", "predict")
+
